@@ -1,0 +1,19 @@
+{
+  "name": "figma-plugin-first",
+  "id": "1558753328045306818",
+  "api": "1.0.0",
+  "main": "./dist/app.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "documentAccess": "dynamic-page",
+  "editorType": [
+    "figma",
+    "slides"
+  ],
+  "ui": "ui.html",
+  "networkAccess": {
+    "allowedDomains": [
+      "https://assets.meets.8card.net"
+    ]
+  }
+}
